@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x784E98c35EEE7183e3bAdbe9B64A447b933d5EEF",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x784E98c35EEE7183e3bAdbe9B64A447b933d5EEF",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Eva Profile Pictures First",
+  "SYMBOL": "EPFPF",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
